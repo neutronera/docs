@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="220.11783"
+   height="314.44116"
+   viewBox="0 0 220.11783 314.44116"
+   sodipodi:docname="neutron_filled.png"
+   inkscape:export-batch-path="..\Pictures\svg"
+   inkscape:export-batch-name="neutron_filled"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1"
+     transform="translate(-145,-104.55884)">
+    <path
+       style="fill:#000000"
+       d="M 171.5,392.5 145,391.94195 v -28.8839 L 171.5,362.5 172.05805,336 H 201 v 27 h 27 v 29 h -27 v 27 H 172.05805 Z M 291,363 h 66 v 30 h -66 z m -5,-94.88517 c 0,-94.24724 0.37369,-89.646 -7.98007,-98.2591 -12.92364,-13.32488 -31.41411,-5.74804 -35.51993,-3.59171 -4.61846,2.42557 -11.1553,9.69415 -13.70216,15.23598 l -2.29784,5 -0.27745,66.25 L 225.9451,319 H 147 V 109 h 64.69732 l 2.21909,13.75 c 1.22049,7.5625 2.45609,14.57584 2.74577,15.58521 0.43147,1.50345 2.00098,0.406 8.68225,-6.07093 9.42186,-9.13371 14.45585,-12.74054 25.33122,-18.14971 26.99295,-13.42571 63.50523,-12.62108 85.73291,1.88931 15.3121,9.99584 24.63507,27.12269 27.48748,50.49612 1.75679,61.46289 1.10198,123.00742 1.10396,184.5 H 325.5 286 Z"
+       id="path1"
+       sodipodi:nodetypes="ccccccccccccccccccssssccccccsssssscccs" />
+  </g>
+</svg>
